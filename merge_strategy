@@ -10,3 +10,6 @@ strategies:
 - explicit merge
 - implicit merge via rebase of fast-forward merge
 - squash on merge (no explicit merge)
+
+
+https://www.atlassian.com/git/tutorials/comparing-workflows
