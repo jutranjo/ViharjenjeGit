@@ -5,3 +5,8 @@ resolve (2)
 Octopus
 Ours
 Subtree
+
+strategies:
+- explicit merge
+- implicit merge via rebase of fast-forward merge
+- squash on merge (no explicit merge)
